@@ -14,9 +14,7 @@ Optimización de Espacios y Eficiencia Energética en la UAB: Reto del UAB Hack 
 - [Estructura del Repositorio](#estructura-del-repositorio)
 - [Instrucciones de Uso](#instrucciones-de-uso)
 - [Consideraciones Técnicas](#consideraciones-técnicas)
-- [Posibilidades y Sugerencias](#posibilidades-y-sugerencias)
 - [Contacto Técnico](#contacto-técnico)
-- [Licencia](#licencia)
 
 ---
 
@@ -81,16 +79,17 @@ Los datasets se proporcionan en la carpeta `datasets/` y contienen información 
 
 - `README.md'`
 - `datasets/`
--- `grupos.csv`
--- `ubicaciones.csv`
--- `caracteristicas.csv`
--- `recursos_caracteristicas.csv`
--- `franjas_media_hora.csv`
--- `franjas_cuarto_hora.csv`
--- `calendario_grupos.csv`
+- 
+- `grupos.csv`
+- `ubicaciones.csv`
+- `caracteristicas.csv`
+- `recursos_caracteristicas.csv`
+- `franjas_media_hora.csv`
+- `franjas_cuarto_hora.csv`
+- `calendario_grupos.csv`
 
--- `notebooks/`
---- `script-ejemplos_analisis.ipynb`
+- `notebooks/`
+-`script-ejemplos_analisis.ipynb`
 
 - `docs/`
 
@@ -109,7 +108,7 @@ Se recomienda crear un entorno virtual.
 Los datasets crudos se encuentran en la carpeta datasets/
 Utilizar los notebooks de ejemplo en `datasets/notebooks/` para comenzar
 
-### Documentación Técnica
+## Documentación Técnica
 Se proporciona documentación técnica con información clave de los datasets.
 
 ### Restricciones Importantes
@@ -121,6 +120,6 @@ Ten en cuenta las restricciones técnicas que se especifican en la documentació
 - Procesamiento: Unión de datasets, cálculo de ocupación y análisis temporal
 - Optimización: Reasignación de grupos y, opcionalmente, optimización energética
 
-### Contacto Técnico
+## Contacto Técnico
 Utiliza el canal de Discord para cualquier duda técnica o el canal de mentores para solicitar ayuda.
 
