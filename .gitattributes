@@ -1,1 +1,7 @@
 datasets/calendario_grupos.csv filter=lfs diff=lfs merge=lfs -text
+datasets/caracteristicas.csv filter=lfs diff=lfs merge=lfs -text
+datasets/franjas_cuarto_hora.csv filter=lfs diff=lfs merge=lfs -text
+datasets/franjas_media_hora.csv filter=lfs diff=lfs merge=lfs -text
+datasets/grupos.csv filter=lfs diff=lfs merge=lfs -text
+datasets/recursos_caracteristicas.csv filter=lfs diff=lfs merge=lfs -text
+datasets/ubicaciones.csv filter=lfs diff=lfs merge=lfs -text
