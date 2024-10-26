@@ -79,18 +79,6 @@ Los datasets se proporcionan en la carpeta `datasets/` y contienen información 
 
 - `README.md'`
 - `datasets/`
-- 
-- `grupos.csv`
-- `ubicaciones.csv`
-- `caracteristicas.csv`
-- `recursos_caracteristicas.csv`
-- `franjas_media_hora.csv`
-- `franjas_cuarto_hora.csv`
-- `calendario_grupos.csv`
-
-- `notebooks/`
--`script-ejemplos_analisis.ipynb`
-
 - `docs/`
 
 ## Instrucciones de Uso
