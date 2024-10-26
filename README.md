@@ -85,7 +85,7 @@ Los datasets se proporcionan en la carpeta `datasets/` y contienen información 
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/usuario/uab-hack-2024.git
+git clone https://github.com/albertgilopez/uabthehack-datathon-2024.git
 ```
 
 ### Instalar Dependencias
