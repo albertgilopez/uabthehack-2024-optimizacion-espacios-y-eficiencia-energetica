@@ -93,7 +93,7 @@ Se recomienda crear un entorno virtual.
 
 ### Explorar los Datasets
 
-Los datasets crudos se encuentran en la carpeta datasets/
+Los datasets crudos se encuentran en la carpeta `datasets/`
 Utilizar los notebooks de ejemplo en `datasets/notebooks/` para comenzar
 
 ## Documentación Técnica
