@@ -1,5 +1,4 @@
-# UAB THE HACK - DATATHON 2024
-Optimización de Espacios y Eficiencia Energética 🏫
+# UAB THE HACK - DATATHON 2024: Optimización de Espacios y Eficiencia Energética 🏫
 
 ## Descripción
 Optimización de Espacios y Eficiencia Energética en la UAB: Reto del UAB Hack 2024 que invita a analizar y optimizar el uso de los espacios universitarios para mejorar la eficiencia energética y la sostenibilidad, utilizando datasets reales de ocupación y horarios.
